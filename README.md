@@ -8,7 +8,7 @@
 ## *♬ Listen to Dance ♫*
 
 <details>
-<summary>♪ 小酌一杯，继续探索...</summary><br>
+<summary>♪ 小酌一杯，继续探索 ...</summary><br>
   <b>咦？那是什么？....</b>
   <br><br>
   原来是一颗隐隐发光的星星！

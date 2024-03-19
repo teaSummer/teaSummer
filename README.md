@@ -7,9 +7,9 @@
 
 ## *♬ Listen to Dance ♫*
 
+主要项目：[模组制作器 (Addon IDE)](http://addonide.funmc.top)
 <details>
 <summary><b>♪ 小酌一杯，继续探索 ...</b></summary><br>
-  主要项目：<a href="http://addonide.funmc.top">Addon IDE (模组制作器)</a>
   <br><br>
   <b>咦？那是什么？....</b>
   <br><br>

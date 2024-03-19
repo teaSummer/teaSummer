@@ -10,7 +10,6 @@
 主要项目：[模组制作器 (Addon IDE)](http://addonide.funmc.top)
 <details>
 <summary><b>♪ 小酌一杯，继续探索 ...</b></summary><br>
-  <br><br>
   <b>咦？那是什么？....</b>
   <br><br>
   原来是一颗隐隐发光的星星！

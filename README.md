@@ -1,6 +1,6 @@
 <b>¶</b>&ensp;只是茫茫人海中的一颗星星罢了
 
-<h2>进一步确认 &nbsp;:(</h2>
+<h2>进一步确认&ensp;:(</h2>
 
 <ul>
   <li>不知名<i>UP</i>主 <a href="https://space.bilibili.com/646850180/">夏色景美</a>&ensp;<i>- BiliBili</i></li>

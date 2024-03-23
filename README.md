@@ -14,10 +14,5 @@
 
 <details>
 <summary><b>♪ 小酌一杯，继续探索 ...</b></summary><br>
-  <b>咦？那是什么？....</b>
-  <br><br>
-  原来是一颗隐隐发光的星星！
-  <br><br>
-  <b>So do I</b>?
-  <b>So I do</b>!
+  ......
 </details>

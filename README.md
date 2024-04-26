@@ -12,7 +12,9 @@
 
 <h2><i>♬ Listen to Dance ♫</i></h2>
 
-主要项目：<a href="http://addonide.funmc.top">模组制作器 (Addon IDE)</a>
+首要项目：<a href="https://mcisee.top">所见皆是<i>Minecraft</i> - MCiSEE</a>
+
+<a href="https://github.com/teaSummer/MCiSEE/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=teaSummer&repo=MCiSEE"></a>
 
 <details>
 <summary><b>♪ 小酌一杯，继续探索 ...</b></summary><br>

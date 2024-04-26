@@ -14,5 +14,7 @@
 
 <details>
 <summary><b>♪ 小酌一杯，继续探索 ...</b></summary><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=teaSummer" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teaSummer&langs_count=5" /><br>
   ......
 </details>

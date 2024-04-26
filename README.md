@@ -1,5 +1,7 @@
 <b>¶</b>&ensp;只是茫茫人海中的一颗星星罢了
 
+<img src="https://streak-stats.demolab.com/?user=teaSummer&locale=zh_CN">
+
 <h2>进一步确认&ensp;:(</h2>
 
 <ul>
@@ -14,7 +16,7 @@
 
 <details>
 <summary><b>♪ 小酌一杯，继续探索 ...</b></summary><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=teaSummer" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teaSummer&langs_count=5" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=teaSummer&show_icons=true&locale=cn"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teaSummer&langs_count=5&locale=cn"><br>
   ......
 </details>

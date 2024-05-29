@@ -1,6 +1,6 @@
 <b>¶</b>&ensp;只是茫茫人海中的一颗星星罢了
 
-<img src="https://streak-stats.demolab.com/?user=teaSummer&locale=zh_CN">
+<img src="https://streak-stats.demolab.com/?user=teaSummer&locale=zh_Hans">
 
 <h2>进一步确认&ensp;:(</h2>
 

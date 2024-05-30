@@ -2,12 +2,17 @@
 
 <img src="https://streak-stats.demolab.com/?user=teaSummer&locale=zh_Hans">
 
-<h2>进一步确认&ensp;:(</h2>
+<h2>💬 社交媒体</h2>
+
+
+| 社交          | 链接/ID                                                                 |         | 其它          | 链接/ID                                        |
+|-------------|-----------------------------------------------------------------------|---------|-------------|----------------------------------------------|
+| 🐧 QQ       | [3143279820](https://qm.qq.com/q/sjGiM7p638&personal_qrcode_source=3) |         | 📺 Bilibili | [夏色景美](https://space.bilibili.com/646850180) |
+| X (Twitter) | [teaSummerO](https://x.com/teaSummerO)                                |         | Minecraft   | teaSummerTime                                |
+| Discord     | tea.summer                                                            |         | 🎮 Xbox     | realonDrag                                   |
 
 <ul>
-  <li>不知名<i>UP</i>主 <a href="https://space.bilibili.com/646850180/">夏色景美</a>&ensp;<i>- BiliBili</i></li>
-  <li>啥也不懂的 <a href="https://qm.qq.com/q/sjGiM7p638&personal_qrcode_source=3">阿巴怪</a>&ensp;<i>- QQ</i></li>
-  <li>带着 <a href="http://bee.669.ink">我的垃圾桶</a> 四处溜达 <i>* My Website <b>(Trash)</b></i></li>
+  <li>通通扔进 <a href="http://bee.669.ink">我的垃圾桶</a> 里 * My Website <b>(Trash)</b></i></li>
 </ul>
 
 <h2><i>♬ Listen to Dance ♫</i></h2>

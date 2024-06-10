@@ -4,17 +4,12 @@
 
 <h2>💬 社交媒体</h2>
 
-
 | 社交          | 链接/ID                                                                 |     | 其它           | 链接/ID                                              |
 |-------------|-----------------------------------------------------------------------|-----|--------------|----------------------------------------------------|
 | 🐧 QQ       | [3143279820](https://qm.qq.com/q/sjGiM7p638&personal_qrcode_source=3) |     | 📺 Bilibili  | [夏色景美](https://space.bilibili.com/646850180)       |
 | X (Twitter) | [teaSummerO](https://x.com/teaSummerO)                                |     | Crowdin      | [teaSummer](https://crowdin.com/profile/teaSummer) |
 | Discord     | tea.summer                                                            |     | Minecraft JE | teaSummerTime                                      |
 | 🎮 Xbox     | realonDrag                                                            |     | Minecraft BE | realonDrag                                         |
-
-<ul>
-  <li>通通扔进 <a href="http://bee.669.ink">我的垃圾桶</a> 里 * My Website <b>(Trash)</b></i></li>
-</ul>
 
 <h2><i>♬ Listen to Dance ♫</i></h2>
 

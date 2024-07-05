@@ -18,7 +18,7 @@
 <a href="https://github.com/teaSummer/MCiSEE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=teaSummer&repo=MCiSEE"></a>
 
 <details>
-<summary><b>♪ GitHub 数据</b></summary><br>
+<summary><b>♪ 我的 GitHub 详细数据</b></summary><br>
   <img src="https://streak-stats.demolab.com/?user=teaSummer&locale=zh_Hans">
   <img src="https://github-readme-stats.vercel.app/api?username=teaSummer&show_icons=true&locale=cn"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teaSummer&langs_count=5&locale=cn"><br>

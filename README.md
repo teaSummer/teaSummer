@@ -6,7 +6,7 @@
 
 | 社交          | 链接/ID                                                                 |     | 其它           | 链接/ID                                              |
 |-------------|-----------------------------------------------------------------------|-----|--------------|----------------------------------------------------|
-| 🐧 QQ       | [3143279820](https://qm.qq.com/q/sjGiM7p638&personal_qrcode_source=3) |     | 📺 Bilibili  | [夏色景美](https://space.bilibili.com/646850180)       |
+| 🐧 QQ       | [3143279820](https://qm.qq.com/q/sjGiM7p638&personal_qrcode_source=3) |     | 📺 BiliBili  | [夏色景美](https://space.bilibili.com/646850180)       |
 | X (Twitter) | [teaSummerO](https://x.com/teaSummerO)                                |     | Crowdin      | [teaSummer](https://crowdin.com/profile/teaSummer) |
 | Discord     | tea.summer                                                            |     | Minecraft JE | teaSummerTime                                      |
 | 🎮 Xbox     | realonDrag                                                            |     | Minecraft BE | realonDrag                                         |

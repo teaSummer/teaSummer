@@ -6,7 +6,7 @@
 
 * 中文Minecraft Wiki现任[巡查员](https://zh.minecraft.wiki/w/User:TeaSummer)之一，有疑问可前往[讨论页](https://zh.minecraft.wiki/w/User_talk:TeaSummer)或以下链接提出。
 
-| 社交          | 链接/ID                                                                 |     | 其它           | 链接/ID                                              |
+| 社交          | 链接/ID                                                                 |     | 其他           | 链接/ID                                              |
 |-------------|-----------------------------------------------------------------------|-----|--------------|----------------------------------------------------|
 | 🐧 QQ       | [3143279820](https://qm.qq.com/q/sjGiM7p638&personal_qrcode_source=3) |     | 📺 BiliBili  | [teaSummer](https://space.bilibili.com/646850180)       |
 | X (Twitter) | [teaSummerO](https://x.com/teaSummerO)                                |     | Crowdin      | [teaSummer](https://crowdin.com/profile/teaSummer) |

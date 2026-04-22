@@ -15,9 +15,7 @@
 
 <h2><i>♬ Listen to Dance ♫</i></h2>
 
-首要项目：<a href="https://mcisee.top">所见皆是<i>Minecraft</i> - MCiSEE</a>
-
-<a href="https://github.com/teaSummer/MCiSEE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=teaSummer&repo=MCiSEE"></a>
+<a href="https://github.com/mc-wiki/mcaf-resourcepack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mc-wiki&repo=mcaf-resourcepack"></a> <a href="https://github.com/teaSummer/MCiSEE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=teaSummer&repo=MCiSEE"></a>
 
 <details>
 <summary><b>♪ 我的 GitHub 详细数据</b></summary><br>
